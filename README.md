@@ -1,5 +1,3 @@
-Creating a README.md for your project involves explaining the project's purpose, describing how to set it up, and providing usage examples. Below is a template tailored to your code:
-
 ```markdown
 # Sensor Fusion and Visualization Project
 
