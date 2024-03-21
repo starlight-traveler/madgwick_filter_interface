@@ -59,4 +59,3 @@ Feel free to fork the repository, make changes, and submit pull requests. We wel
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
