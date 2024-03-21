@@ -41,7 +41,7 @@ Note: `imufusion` might need to be installed from a specific source or configure
 3. Run the main script:
 
 ```bash
-python main_script_name.py
+python pitch_calculation.py
 ```
 
 This will generate Euler angle visualizations alongside the algorithm's internal states and flags.
