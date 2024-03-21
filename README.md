@@ -1,4 +1,3 @@
-```markdown
 # Sensor Fusion and Visualization Project
 
 This project utilizes sensor data to compute and visualize Euler angles using the IMUFusion library. It processes data from gyroscopes, accelerometers, and magnetometers to estimate orientation, visualizing these estimations alongside internal algorithm states and recovery flags.
