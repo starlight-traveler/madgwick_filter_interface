@@ -54,7 +54,7 @@ This will generate Euler angle visualizations alongside the algorithm's internal
 
 ## Contributing
 
-Feel free to fork the repository, make changes, and submit pull requests. We welcome contributions to improve the project's accuracy and usability.
+Feel free to fork the repository, make changes, and submit pull requests. Special thanks to the IMUFusion theme for excellent documentation.
 
 ## License
 
